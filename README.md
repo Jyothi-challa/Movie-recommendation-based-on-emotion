@@ -11,7 +11,7 @@ Happy-Family.
 
 Based on the input emotion and the preferred language, the corresponding genre
 would be selected and all the top 20 movies of that genre would be recommended to the user.
-Movie lists are extracted from the famous website IMDB by using web scraping. 
+Movie lists are extracted from the IMDB website by using Web Scraping. 
 
-Library:J-Soup
+Library: J-Soup
 
